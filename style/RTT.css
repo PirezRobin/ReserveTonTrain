@@ -1,0 +1,86 @@
+.dropdown-header {
+  display: block;
+  padding: 3px 20px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.presentation {
+  background-size: cover;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 3%;
+  padding-bottom: 25%;
+  background-image: url("images/sncf.png");
+  background-position: center top;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+.col-md-4 .header {
+  background-image: url("images/bande.png");
+}
+.navbar-default {
+    background-color: white !important;
+    border: none!important;
+
+}
+.navbar {
+    padding-top: 60px;
+    padding-left: 30px;
+    position: relative;
+    border: 1px solid transparent;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 30px;
+    background-color: white !important;
+  }
+  .navbar-default .navbar-nav>li>a {
+    color: #ff751a;
+}
+
+.titre {
+  padding-top: 110px;
+  text-align: center;
+  vertical-align: middle;
+  padding-bottom: 110px;
+
+}
+.footer {
+ 
+background-color: #4A4A4A;
+    color: #fff;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    text-align: center;
+    vertical-align: middle;
+}
+a {
+  background: transparent;
+  color: orange;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+a:link {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+.container .footer {
+  padding-left: none;
+  padding-left: none;
+}
+ul {
+  padding-left: 10px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+
+}
+.footerSocialLinks {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
